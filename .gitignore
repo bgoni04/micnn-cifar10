@@ -1,0 +1,26 @@
+# Dataset (downloaded automatically by torchvision)
+data/
+cifar-10-batches-py/
+*.tar.gz
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
